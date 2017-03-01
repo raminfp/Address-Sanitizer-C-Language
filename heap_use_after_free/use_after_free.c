@@ -12,5 +12,5 @@ int main(int argc, char **argv) {
   ptr = (int *)malloc(sizeof(ptr));
   *ptr = 0;
   free(ptr);
-  return *p;
+  return *ptr;
 }
