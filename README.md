@@ -1,6 +1,6 @@
 # Address-Sanitizer-C-Language
 
-Usage : 
+Usage ex: 
 
 	[root@raminfp]# gcc -fsanitize=address -g double_free.c
 	[root@raminfp]# ./a.out
