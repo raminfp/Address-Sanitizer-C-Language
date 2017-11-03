@@ -2,6 +2,6 @@
 
 Usage : 
 
-	```bash gcc -fsanitize=address -g double_free.c```
-	```bash execute : ./a.out```
-	```bash errors message of ASAN```
+	[root@raminfp]# gcc -fsanitize=address -g double_free.c
+	[root@raminfp]# ./a.out
+	output : bash errors message of ASAN
