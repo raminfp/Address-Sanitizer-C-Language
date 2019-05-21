@@ -12,8 +12,8 @@
 7- Use After return<br />
 8- Type Confusion<br />
 9- Uninitialized memory access<br />
-10- Global Bufferoverflow
-11- Double Free
+10- Global Bufferoverflow<br />
+11- Double Free<br />
 
 <br />
 Usage ex: 
